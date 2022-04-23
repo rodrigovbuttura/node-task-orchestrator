@@ -1,0 +1,13 @@
+{
+  "name": "taskorchestrator",
+  "version": "1.0.0",
+  "description": "Task orchestrator by interval: day, hour, minute and seconds - with detail callback",
+  "main": "./app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./app.js"
+  },
+  "keywords": [],
+  "author": "Rodrigo Buttura <rodrigovbuttura@gmail.com>",
+  "license": "MIT"
+}
